@@ -1,0 +1,42 @@
+[
+   {
+      "place":"Sala de Estar",
+      "keys":[
+         {
+            "id":"id30",
+            "name": "Chave 1"
+         },
+         {
+            "id":"id34",
+            "name": "Chave 2"
+         },
+      ]
+   },
+   {
+      "place":"Portão Garagem",
+      "keys":[
+         {
+            "id":"id31",
+            "name": "Chave 2"
+         }
+      ]
+   },
+   {
+      "place":"Portão Principal",
+      "keys":[
+         {
+            "id":"id32",
+            "name": "Chave 3"
+         }
+      ]
+   },
+   {
+      "place":"Sala de Jogos",
+      "keys":[
+         {
+            "id":"id33",
+            "name": "Chave 4"
+         }
+      ]
+   }
+]
