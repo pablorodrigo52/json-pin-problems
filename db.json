@@ -11,5 +11,32 @@
             "name":"Chave 2"
          }
       ]
+   },
+   {
+      "place":"Portão Garagem",
+      "keys":[
+         {
+            "id":"epsc31",
+            "name":"Chave 2"
+         }
+      ]
+   },
+   {
+      "place":"Portão Principal",
+      "keys":[
+         {
+            "id":"epsc32",
+            "name":"Chave 3"
+         }
+      ]
+   },
+   {
+      "place":"Sala de Jogos",
+      "keys":[
+         {
+            "id":"epsc33",
+            "name":"Chave 4"
+         }
+      ]
    }
 ]
