@@ -1,0 +1,15 @@
+{
+    "problems":
+    [
+        {
+            "question": "npm install sqlite3",
+            "link":"",
+            "obs":"instalei os pacotes quebrados do npm depois de dar esse comando: 'sudo chown -R $USER:$(id -gn $USER) /home/liliane/.config' aí executei o 'npm install sqlite3'"
+        },
+        {
+            "question": "qualquer outra dúvida aleatória",
+            "link":"https://stackoverflow.com.br/qualquer_outra_dúvida_aleatória",
+            "obs":"a magic problem require a magic anwser"
+        }
+    ]
+}
