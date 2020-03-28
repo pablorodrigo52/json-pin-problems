@@ -5,6 +5,11 @@
             "question": "npm install sqlite3",
             "link":"",
             "obs":"instalei os pacotes quebrados do npm depois de dar esse comando: 'sudo chown -R $USER:$(id -gn $USER) /home/liliane/.config' aí executei o 'npm install sqlite3'"
+        },
+        {
+            "question": "upload a react-app on github pages",
+            "link":"https://github.com/gitname/react-gh-pages",
+            "obs":"need to install ghpages using npm"
         }
     ]
 }
